@@ -54,6 +54,11 @@
     margin: 2rem;
 }
 
+.submitBtn:hover{
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid;
+}
+
 .links{
     display: flex;
     flex-wrap: wrap;
